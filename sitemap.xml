@@ -2,66 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/chemistry/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/covariant-neural-networks/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gsimm/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gcsanyi/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jmhlobato/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/molecular-design/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/reinforcement-learning/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>/publication/simm2021symmetry/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>/publication/simm2020reinforcement/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/tag/active-learning/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/tag/approximate-inference/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/publication/pinsler2019bayesian/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/tag/bayesian-deep-learning/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/authors/enalisnick/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/jgordon/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/akupcsik/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/bayesian-optimization/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/tag/contextual-policy-search/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>/authors/dhsu/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/pinsler2019factored/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pkarkus/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/robotics/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wslee/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/gneumann/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/hierarchical-reinforcement-learning/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/human-robot-interaction/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jpeters/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/preference-learning/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rakrour/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/pinsler2018sample/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tosa/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>
