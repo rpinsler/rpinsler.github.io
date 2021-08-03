@@ -50,15 +50,6 @@
     <loc>/tags/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/simm2020reinforcement/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -128,6 +119,12 @@
     <loc>/authors/tosa/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/dont_blame_reviewer/</loc>
+  </url><url>
+    <loc>/post/multi_dimensional_researcher/</loc>
+  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/post/</loc>
   </url>
 </urlset>

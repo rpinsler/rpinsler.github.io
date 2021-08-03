@@ -21,16 +21,6 @@
     </item>
     
     <item>
-      <title>My first post.</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;a-new-post&#34;&gt;A new post&lt;/h2&gt;
-&lt;p&gt;Text goes here.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Reinforcement Learning for Molecular Design Guided by Quantum Mechanics</title>
       <link>/publication/simm2020reinforcement/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
